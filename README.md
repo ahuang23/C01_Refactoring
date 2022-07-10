@@ -9,6 +9,7 @@
 - Added id="search-engine-optimization" to enable anchoring from the nav bar to the Search Engine Optimization section below
 - Added alt tags wherever needed 
 - Added comments to style.css file
+- Consolidated classes in css file
 
 ### Website
 
